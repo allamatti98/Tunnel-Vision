@@ -1,0 +1,9 @@
+# Ignored Folders
+node_modules/
+build/
+env/
+media/
+__pycache__/
+.env
+package-lock.json
+/cyclopse
